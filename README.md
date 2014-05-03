@@ -1,8 +1,16 @@
 idad
 ====
 
-This is just a rewrite of the same application with Vala.
+LICENSE - GPLv3
+
+This is just a rewrite of the joke application developed by 
+[David McMackins](http://mcmackins.org/contact.html). in vala.
+
 Reason: because I can.
+
+all the data content bellow is part of the original project
+and you can find it [here](https://github.com/2mac/Idad)
+↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓
 
 Prints a random dad joke to the screen
 
@@ -19,5 +27,4 @@ Legitimacy
 ----------
 
 This program is not meant to be taken seriously. If you __really__ want a 
-program with this functionality, you may 
-[contact me](http://mcmackins.org/contact.html).
+program with this functionality.
