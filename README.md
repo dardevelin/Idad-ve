@@ -27,4 +27,4 @@ Legitimacy
 ----------
 
 This program is not meant to be taken seriously. If you __really__ want a 
-program with this functionality.
+program with this functionality contact the original developer.
